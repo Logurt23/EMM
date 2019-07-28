@@ -2550,8 +2550,9 @@ div.mouse span.scroll-down {
 }
 
 .stats {
-    background: url("../img/programming-.jpg") no-repeat center center;
+    background: url("../img/skyscraper3.jpg") no-repeat center center;
     background-size: cover
+
 }
 
 .stats i.icon {
@@ -2570,6 +2571,12 @@ div.mouse span.scroll-down {
     font-family: Montserrat, Georgia, "Times New Roman", serif;
     font-size: 48px;
     color: #fff
+}
+
+.stats p.stats-number2 {
+    font-family: Montserrat, Georgia, "Times New Roman", serif;
+    font-size: 48px;
+    color: black;
 }
 
 .stats p.stats-text {
@@ -2986,7 +2993,7 @@ section.get-started:before {
     width: 100%;
     height: 100%;
     content: ' ';
-    background-image: url("../img/texture-shapes-bg.png")
+    background-image: url("../img/skycraper.jpg")
 }
 
 footer p {
