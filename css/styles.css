@@ -2715,6 +2715,12 @@ div.mouse span.scroll-down {
     right: 0
 }
 
+.skillset .push-left {
+    position: absolute;
+    top: 0;
+    right: 0
+}
+
 .latest-articles .sort {
     text-align: right
 }
