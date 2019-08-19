@@ -76,11 +76,11 @@ body {
 
 #intro {
   position: absolute;
+  text-align: center;
   left: 0;
   top: 50%;
   padding: 0 20px;
   width: 100%;
-  text-align: center;
 }
 h1 {
   text-transform: uppercase;
