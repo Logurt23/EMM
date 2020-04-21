@@ -1204,8 +1204,8 @@ section.get-started
 
     padding: 90px 0;
 
-    background-image: -webkit-linear-gradient(225deg, #70f6ea 0%, #51ccdc 100%);
-    background-image:         linear-gradient(225deg, #70f6ea 0%, #51ccdc 100%);
+    background-image: -webkit-linear-gradient(225deg, #70f6ea 0%, 2dffbc 100%);
+    background-image:         linear-gradient(225deg, #70f6ea 0%, 2dffbc 100%);
     h2
     {
         font-size: 28px;
@@ -2594,7 +2594,7 @@ Responsive Media Queries
 {
     .header-nav-wrapper
     {
-        border-bottom: solid 5px #7ae2de;
+        border-bottom: solid 5px 2dffbc;
         background-color: $slate;
     }
     .header-nav-wrapper .logo

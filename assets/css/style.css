@@ -2326,6 +2326,32 @@ ul.services-list li{
     position: relative
 }
 
+.site-hero-careers {
+    background: url("../img/hand.png") no-repeat;
+    background-size: cover;
+    height: 600px;
+    width: 100%;
+    position: relative
+}
+
+.site-hero-careers .page-title {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.site-hero-careers h2{
+		color: #777;
+    text-transform: uppercase;
+    font-size: 25px;
+    line-height: 2;
+    letter-spacing: 10px
+}
+
 .site-hero-contact .page-title {
     position: absolute;
     top: 50%;
